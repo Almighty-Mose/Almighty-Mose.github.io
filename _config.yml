@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: CoderBase
 header-img: img/home-bg.png
 email: branden.mosley1337@gmail.com
 copyright_name: Almighty-Mose
 description: > # this means to ignore newlines until "baseurl:"
-  
+  All Your Code Are Belong To Us
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Almighty-Mose
