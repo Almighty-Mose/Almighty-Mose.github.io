@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Code is a Means to an End that Never Ends."
-date:       2018-02-20 19:56:52 +0000
+date:       2018-02-20 14:56:53 -0500
 permalink:  code_is_a_means_to_an_end_that_never_ends
 ---
 
 
-The code we write is an expression, an extension of ourselves. Semi-broken, constantly searching for the extra functionality that makes us whole. Just as in life, through code, we solve, we learn, we grow. As a program grows, it begins to contain slivers of personality, it takes on a life of its own. The program's writers are reflected in those methods and loops and strings. 
+The code we write is an expression, an extension of ourselves. Semi-broken, constantly searching for the extra functionality that makes the program whole. Within our code, we solve, we learn, we grow. As a program grows, it begins to contain vestiges of personality - it takes on a life of its own. The program's writers are reflected in those methods and loops and strings. 
 
 >Through learning code, we learn ourselves.
 
