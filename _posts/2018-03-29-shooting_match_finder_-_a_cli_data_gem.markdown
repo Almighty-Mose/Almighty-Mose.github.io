@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Shooting Match Finder - A CLI Data Gem"
-date:       2018-03-29 17:39:19 +0000
+date:       2018-03-29 13:39:20 -0400
 permalink:  shooting_match_finder_-_a_cli_data_gem
 ---
 
@@ -130,7 +130,7 @@ Other than that, it's a pretty cut and dry scraping method, storing information 
 
 ***TWICE***
 
-Which was annoying. Turns out, if a match hasn't yet opened it's registration, there's additional information displayed at the very top of the details page! Since my xpath descriptors are based on specific div and p tags, a match that has that extra info needs to be scraped differently! Otherwise, I was getting all sorts of strange behavior from my program. Certain matches would display exactly as I wanted them to, others would display wrong information. Luckily, Practiscore has standardized the way it shows this additional registration information, so I was able to emply some simple logic to determine whether or not a match had opened registration. But I still had to do scraping code twice.
+Which was annoying. Turns out, if a match hasn't yet opened it's registration, there's additional information displayed at the very top of the details page! Since my xpath descriptors are based on specific div and p tags, a match that has that extra info needs to be scraped differently! Otherwise, I was getting all sorts of strange behavior from my program. Certain matches would display exactly as I wanted them to, others would display wrong information. Luckily, Practiscore has standardized the way it shows this additional registration information, so I was able to employ some simple logic to determine whether or not a match had opened registration. But I still had to do scraping code twice.
 
 **IT LIVES!**
 
